@@ -1,4 +1,4 @@
-# ducky-auth-feedback
+# Duck Auth
 ## Purpose
 Provide feedback such as issues and suggestions for the Ducky Auth mobile application. 
 
